@@ -440,6 +440,12 @@ npm run env
 
 
 
+### 2.11 查看全局node_modules目录
+
+使用 `npm root -g` 可以查看全局 `node_modules` 目录在哪个地方。
+
+
+
 ## 三、npm config 命令
 
 `npm` 提供了几个 `npm config` 指令来进行用户级和全局级配置。

@@ -136,3 +136,21 @@ new Vue({
 
 触发时机：**在beforeMount函数之后，Mounted函数之前。**
 
+
+
+## 三、Vue.extend方法
+
+>API：Vue.extend(options)
+
+该方法的返回值是一个组件构造器。
+
+**主要使用场景：**1、动态渲染组件。2、实现类似于window.alert()这种提示功能。
+
+### 3.1 基础用法
+
+用一个例子说明，方便理解 `Vue.extend()` 方法。
+
+```html
+
+```
+

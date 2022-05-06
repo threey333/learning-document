@@ -131,10 +131,10 @@ const vm = new Vue({
 
 - **修改方式2 : 使用存在过的类样式 => 修改默认高亮类名** 
 
-```csss
+```css
 .red {
-color: red;
-font-size: 30px;
+    color: red;
+    font-size: 30px;
 }
 ```
 
