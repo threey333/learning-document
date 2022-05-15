@@ -892,7 +892,7 @@ const vm = new Vue({
 
 ```html
 <div id="box">
-  <button @click="btn1Click()">按钮4</button>
+  <button @click="btn1Click">按钮4</button>
 </div>
 ```
 
